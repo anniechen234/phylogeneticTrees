@@ -91,4 +91,5 @@ with open("mlst-genes.txt","rU") as infile_handle:
 			outFile.write("\t")
 			outFile.write(dictGenes[k])
 			outFile.write("\n")
-		outFile.close()			
+		outFile.close()		
+#testing how to use git to track changes	
